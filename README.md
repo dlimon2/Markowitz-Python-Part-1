@@ -2,6 +2,6 @@
 
 Este repositorio esla parte 1 del portafolio de markowitz en Python.
 
-Es un notebook de iPython que se puede ejecutar en Google Colab.
+Este notebook debe ser ejecutado en Google Colab.
 
 ~ Daniel Limón (twitter.com/dlimon_)
